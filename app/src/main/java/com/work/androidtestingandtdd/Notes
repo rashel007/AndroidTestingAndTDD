@@ -1,0 +1,4 @@
+
+
+# Unit Test Name Pattern
+    => <unitOfWork>_<stateUnderTest>_<expectedBehavior>
